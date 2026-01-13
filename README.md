@@ -23,12 +23,6 @@ El análisis se encuentra en el notebook:
 
 - `Challenge_Telecom_x.ipynb`
 
-## Cómo usar el proyecto
-1. Descargar o clonar el repositorio:
-```bash
-git clone https://github.com/Ale2779/telecomx-churn-analysis.git
-2. Abrir el archivo Challenge_Telecom_x.ipynb en Jupyter Notebook.
-
 3. Ejecutar las celdas en orden para visualizar el análisis.
 
 📊 Análisis Realizado
